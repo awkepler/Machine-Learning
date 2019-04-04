@@ -1,4 +1,4 @@
-Diffrence Between PCA and Kernel PCA:
+# Diffrence Between PCA and Kernel PCA:
 
 Kernel PCA just performs PCA in a new space. It uses Kernel trick to find principal components in different space (Possibly High Dimensional Space). PCA finds new directions based on covariance matrix of original variables. It can extract maximum P (number of features) eigen values.
 
